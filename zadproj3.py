@@ -6,7 +6,7 @@ def zamiana_liter(łańcuch):
     return łańcuch_zmieniony
 
 
-kwiat = "storczyk"
+kwiat = "orchidea"
 otrzymane = zamiana_liter(kwiat)
 print(otrzymane)
 
